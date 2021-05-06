@@ -1,4 +1,4 @@
-# Vuetify for Figma
+# Vuetify (Material Design Component Figma Library For Vue.js)
 Material Design Components Figma Library For Vuetify (Vue UI Library)
 
 ## How to use the file
