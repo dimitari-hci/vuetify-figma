@@ -1,3 +1,5 @@
+![Vuetify (Material Design Component Figma Library For Vue.js)](https://cdn-images-1.medium.com/max/2600/1*MN3UqHJc0QZR1kp8QE0Opg.png)
+
 # Vuetify (Material Design Component Figma Library For Vue.js)
 Material Design Components Figma Library For Vuetify (Vue UI Library)
 
